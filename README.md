@@ -1,4 +1,4 @@
 RandomGoodies
 =============
 
-This repo contains some misc. goodies.
+This repo contains some scripts that allow for bulk operations using GAM.
